@@ -3272,3 +3272,6 @@ footer .copyright-area .copyright-right {
   color: #ffffff;
   background-color: #94be5d;
 }/*# sourceMappingURL=style.css.map */
+.location-bg::before {
+    opacity: 1;
+}
